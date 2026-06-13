@@ -1,0 +1,21 @@
+# ─────────────────────────────────────────────────────────────
+# Vizzy Chat — Python Dependencies
+# ─────────────────────────────────────────────────────────────
+
+# Core framework
+streamlit>=1.31.0
+
+# AI / LLM
+openai>=1.12.0
+langchain>=0.1.9
+langchain-openai>=0.0.8
+langchain-core>=0.1.27
+langgraph>=0.0.26
+
+# Environment & config
+python-dotenv>=1.0.1
+
+# Utilities
+Pillow>=10.2.0
+requests>=2.31.0
+pydantic>=2.6.0
